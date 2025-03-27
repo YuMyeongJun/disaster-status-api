@@ -1,4 +1,4 @@
-# disaster-status-api
+# disaster-status-monitoring
 오픈 API 기반 개인 프로젝트 전용 재난현황 API
 
 - 고속도로 CCTV API (https://www.its.go.kr/opendata/opendataList?service=cctv)
